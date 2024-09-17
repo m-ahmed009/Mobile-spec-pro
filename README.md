@@ -26,7 +26,7 @@ git clone https://github.com/your-username/mobile-spec-pro.git
 
 Open the index.html file in any web browser to start using the website.
 
-#Screenshots:
+# Screenshots:
 ![image](https://github.com/user-attachments/assets/6bfd2c33-c932-44e2-87a0-c487e1db7c1a)
 ![image](https://github.com/user-attachments/assets/bcee3d37-42dc-475b-8214-06ed30fc3588)
 
